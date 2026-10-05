@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-success?style=for-the-badge">
 </p>
-
+https://app.powerbi.com/groups/me/reports/39788ebf-caeb-4a90-8cb8-6d5ac772314c/5c2bf407be1a5a94df39?ctid=fdcf6fad-c3f0-4c66-8ca1-1e3aaac65150&experience=power-bi&bookmarkGuid=6f141be6-fbc7-48d6-9898-0e130804cef2
 <p align="center">
 A professional <b>Finance Analytics Dashboard</b> built using <b>Power BI</b>, <b>MySQL</b>, <b>SQL</b>, <b>Power Query</b>, and <b>DAX</b> to transform financial transaction data into meaningful business insights.
 </p>
